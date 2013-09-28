@@ -1,0 +1,35 @@
+/*CSS Document*/
+.sbar{
+	position:relative;
+	maggin-top:0px;
+	margin-left:0px;
+	padding-left:0px;
+	list-style:none;
+	float:left;
+	width=200px;
+}
+ul.sbar li{
+	float:left;
+}
+ul.sbar a{
+	width:200px;
+	display:block;
+	border:none;
+	padding:1px;
+	margin-right: 10px;
+	background-color: #403EFF;
+	text-decoration:none;
+	color:#F2E9EC;
+	Text-align:left;
+}
+ul.sbar a:hover{
+	width:200px;
+	display:block;
+	border:none;
+	padding:1px;
+	margin-right: 10px;
+	background-color: #030202;
+	text-decoration:none;
+	color:#F2E9EC;
+	Text-align:left;
+};
